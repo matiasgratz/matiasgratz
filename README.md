@@ -37,7 +37,7 @@ I do <strong> content creation </strong> as writing articles in my webpage and d
         <img src="https://github-readme-stats.vercel.app/api?username=matiasgratz&theme=github_dark&show_icons=true" style="vertical-align: top;" />
     </td>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=github_dark&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasgratz&theme=github_dark&layout=compact" />
     </td>
 
   </tr>
