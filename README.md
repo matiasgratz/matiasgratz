@@ -34,10 +34,10 @@ I do <strong> content creation </strong> as writing articles in my webpage and d
 <table>
   <tr >
       <td align="right" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=matiasgratz&theme=dark&show_icons=true" style="vertical-align: top;" />
+        <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiasgratz&theme=github_dark&show_icons=true)" style="vertical-align: top;" />
     </td>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasgratz&theme=dark&layout=compact" />
+      <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" />
     </td>
 
   </tr>
