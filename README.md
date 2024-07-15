@@ -20,18 +20,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=matiasgratz&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<table>
-  <tr >
-      <td align="right" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=matiasgratz&theme=github_dark&show_icons=true" style="vertical-align: top;" />
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasgratz&theme=github_dark&layout=compact" />
-    </td>
-
-  </tr>
-</table>
-
-<br />
