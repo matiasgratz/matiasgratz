@@ -1,36 +1,27 @@
-<h1 align="left">🤖 Matias Gratz</h1>
-<h3 align="left"><strong> Information Systems Engineering Student in UTN. </strong> </h3>
-I am learning to program and design solutions to complex problems in college. Although it is hard for me, it is very gratifying that after several hours of trying solutions one fits the required and it's actually a good solution. It is as if I have two sides, the frustration of not being able to find the solution and the infinite gratitude of solving a problem. The latter usually wins, as I am very curious I like to learn different technologies.
-</br>
-I do <strong> content creation </strong> as writing articles in my webpage and designing in Adobe Programs whenever I'm free
-</br>
-</br>
-
-- 🌱 I’m currently learning <strong> Java </strong> in the subject System design
+# 🤖 Matias Gratz:
+👨🏻‍🎓 Systems Engineering Student in UTN. <br>👨🏻‍💻 BI Analyst in Seidor Analytics<br>Developer<br>Content Creator<br>Video Editor<br>
 
 
-## Learning Skills:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matiasgratz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matiasgratz) 
 
-### Languages:
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=matiasgratz&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=matiasgratz&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=matiasgratz&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div>
-<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="30">
-<img src="https://miro.medium.com/max/1200/1*Wd5q3FM1ne7y8y1Xojh-8g.png" height="30">
-<img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" height="30">
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=matiasgratz&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### Dev-Ops:
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=matiasgratz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div>
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="36">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="30">
-<img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" height="36">
-</div>
-
-## Overall Profile Stats
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <table>
   <tr >
       <td align="right" valign="top">
